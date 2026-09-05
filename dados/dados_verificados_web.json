@@ -1,0 +1,519 @@
+{
+  "_meta": {
+    "descricao": "Dados coletados diretamente das páginas web da Pesquisa Salarial do Código Fonte TV (2021-2026) via WebFetch em jun/2026. Todos os valores foram verificados contra o artigo artigo.tex e confirmados sem discrepâncias.",
+    "fonte": "https://pesquisa.codigofonte.com.br",
+    "verificadoEm": "2026-06-27",
+    "discrepanciasEncontradas": "Nenhuma — todos os dados do artigo conferem com os dados da web."
+  },
+  "edicoes": {
+    "2021": {
+      "participantes": 11441,
+      "periodo": "Set/2020 – Fev/2021",
+      "edicao": "1ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 1323.68,
+        "junior": 2955.93,
+        "pleno": 5594.11,
+        "senior": 10601.42,
+        "outro": 8745.12
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 12.00,
+        "junior": 29.81,
+        "pleno": 30.63,
+        "senior": 24.68,
+        "outro": 2.88
+      },
+      "contratacao": {
+        "CLT": 5285.40,
+        "PJ": 7684.27
+      },
+      "genero": {
+        "masculino": 93.8,
+        "feminino": 5.9
+      },
+      "salarioPorIdade": {
+        "13-17": 1703.81,
+        "18-24": 3293.71,
+        "25-34": 6395.03,
+        "35-44": 8838.20,
+        "45-54": 9735.01,
+        "55-64": 11375.50,
+        "65+": 16200.40
+      },
+      "linguagens_top5": [
+        { "posicao": 1, "nome": "JavaScript", "mediaSalarial": 4875.76 },
+        { "posicao": 2, "nome": "Java", "mediaSalarial": 6546.59 },
+        { "posicao": 3, "nome": "PHP", "mediaSalarial": 4613.53 },
+        { "posicao": 4, "nome": "C#", "mediaSalarial": 5986.30 },
+        { "posicao": 5, "nome": "Python", "mediaSalarial": 5676.70 }
+      ],
+      "estados_top5": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 6316.30 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 4837.94 },
+        { "posicao": 3, "uf": "SC", "mediaSalarial": 5427.56 },
+        { "posicao": 4, "uf": "RJ", "mediaSalarial": 5551.52 },
+        { "posicao": 5, "uf": "PR", "mediaSalarial": 5191.25 }
+      ]
+    },
+    "2022": {
+      "participantes": 11521,
+      "periodo": "Dez/2021 – Mar/2022",
+      "edicao": "2ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 1744.24,
+        "junior": 3658.92,
+        "pleno": 7387.42,
+        "senior": 14399.46,
+        "outro": 13012.34
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 8.10,
+        "junior": 31.94,
+        "pleno": 31.05,
+        "senior": 25.99,
+        "outro": 2.93
+      },
+      "modeloTrabalho": {
+        "atual": { "remoto": 75.05, "hibrido": 14.36, "presencial": 10.59 },
+        "ideal": { "remoto": 72.78, "hibrido": 25.13, "presencial": 2.09 }
+      },
+      "contratacao": {
+        "CLT": 6702.63,
+        "PJ": 11255.72,
+        "outro": 6737.31
+      },
+      "genero": {
+        "masculino": 92.1,
+        "feminino": 7.5
+      },
+      "salarioPorIdade": {
+        "13-17": 2710.01,
+        "18-24": 4885.46,
+        "25-34": 8609.26,
+        "35-44": 10900.49,
+        "45-54": 12009.60,
+        "55-64": 11064.97,
+        "65+": 18000.50
+      },
+      "satisfacao": {
+        "Muito satisfeito": 11.47,
+        "Satisfeito": 47.49,
+        "Indiferente": 12.19,
+        "Insatisfeito": 25.08,
+        "Muito insatisfeito": 3.77,
+        "satisfacaoStack_sim": 82.79
+      },
+      "linguagens_top10": [
+        { "posicao": 1, "nome": "JavaScript", "mediaSalarial": 7113.78, "participantes": 3557 },
+        { "posicao": 2, "nome": "Java", "mediaSalarial": 8070.31, "participantes": 2048 },
+        { "posicao": 3, "nome": "C#", "mediaSalarial": 7810.90, "participantes": 1614 },
+        { "posicao": 4, "nome": "PHP", "mediaSalarial": 6209.53, "participantes": 1227 },
+        { "posicao": 5, "nome": "Python", "mediaSalarial": 8585.61, "participantes": 881 },
+        { "posicao": 6, "nome": "TypeScript", "mediaSalarial": 7209.55, "participantes": 464 },
+        { "posicao": 7, "nome": "Kotlin", "mediaSalarial": 9413.14, "participantes": 269 },
+        { "posicao": 8, "nome": "Dart", "mediaSalarial": 6459.89, "participantes": 234 },
+        { "posicao": 9, "nome": "Delphi", "mediaSalarial": 6492.76, "participantes": 194 },
+        { "posicao": 10, "nome": "Ruby", "mediaSalarial": 10143.72, "participantes": 185 }
+      ],
+      "frameworks_top5": [
+        { "posicao": 1, "nome": "React", "mediaSalarial": 7985.11, "participantes": 2958 },
+        { "posicao": 2, "nome": "Node.js", "mediaSalarial": 8210.36, "participantes": 2361 },
+        { "posicao": 3, "nome": "Angular", "mediaSalarial": 7960.51, "participantes": 1826 },
+        { "posicao": 4, "nome": "Vue.js", "mediaSalarial": 7399.66, "participantes": 962 },
+        { "posicao": 5, "nome": "Spring", "mediaSalarial": 8718.39, "participantes": 810 }
+      ],
+      "estados_top10": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 7938.21, "participantes": 3701 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 7652.64, "participantes": 1275 },
+        { "posicao": 3, "uf": "PR", "mediaSalarial": 7978.40, "participantes": 860 },
+        { "posicao": 4, "uf": "RJ", "mediaSalarial": 7520.80, "participantes": 812 },
+        { "posicao": 5, "uf": "SC", "mediaSalarial": 8147.89, "participantes": 770 },
+        { "posicao": 6, "uf": "RS", "mediaSalarial": 7168.53, "participantes": 729 },
+        { "posicao": 7, "uf": "CE", "mediaSalarial": 7071.91, "participantes": 434 },
+        { "posicao": 8, "uf": "PE", "mediaSalarial": 5543.37, "participantes": 373 },
+        { "posicao": 9, "uf": "BA", "mediaSalarial": 6490.25, "participantes": 342 },
+        { "posicao": 10, "uf": "DF", "mediaSalarial": 8093.86, "participantes": 332 }
+      ]
+    },
+    "2023": {
+      "participantes": 17818,
+      "periodo": "Jan/2023 – Abr/2023",
+      "edicao": "3ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 1622.80,
+        "junior": 3987.43,
+        "pleno": 8023.44,
+        "senior": 15510.34,
+        "outro": 16339.29
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 7.54,
+        "junior": 30.92,
+        "pleno": 31.80,
+        "senior": 26.50,
+        "outro": 3.24
+      },
+      "modeloTrabalho": {
+        "atual": { "remoto": 72.95, "hibrido": 16.02, "presencial": 11.03 },
+        "ideal": { "remoto": 78.16, "hibrido": 20.70, "presencial": 1.14 }
+      },
+      "contratacao": {
+        "CLT": 7540.05,
+        "PJ": 12062.54,
+        "outro": 6835.80
+      },
+      "genero": {
+        "masculino": 90.7,
+        "feminino": 8.9
+      },
+      "salarioPorIdade": {
+        "13-17": 3976.53,
+        "18-24": 5146.34,
+        "25-34": 9384.41,
+        "35-44": 12050.05,
+        "45-54": 13595.60,
+        "55-64": 12056.06,
+        "65+": 7500.50
+      },
+      "satisfacao": {
+        "Muito satisfeito": 11.74,
+        "Satisfeito": 45.48,
+        "Indiferente": 11.83,
+        "Insatisfeito": 26.47,
+        "Muito insatisfeito": 4.48
+      },
+      "linguagens_top10": [
+        { "posicao": 1, "nome": "JavaScript", "mediaSalarial": 7823.97, "participantes": 3688 },
+        { "posicao": 2, "nome": "Java", "mediaSalarial": 9064.12, "participantes": 2711 },
+        { "posicao": 3, "nome": "C#", "mediaSalarial": 8987.88, "participantes": 2656 },
+        { "posicao": 4, "nome": "Python", "mediaSalarial": 8599.68, "participantes": 1739 },
+        { "posicao": 5, "nome": "TypeScript", "mediaSalarial": 8457.13, "participantes": 1695 },
+        { "posicao": 6, "nome": "PHP", "mediaSalarial": 7279.82, "participantes": 1457 },
+        { "posicao": 7, "nome": "Kotlin", "mediaSalarial": 10887.14, "participantes": 397 },
+        { "posicao": 8, "nome": "Dart", "mediaSalarial": 7257.94, "participantes": 369 },
+        { "posicao": 9, "nome": "SQL", "mediaSalarial": 6888.74, "participantes": 349 },
+        { "posicao": 10, "nome": "Delphi", "mediaSalarial": 6451.91, "participantes": 319 }
+      ],
+      "frameworks_top5": [
+        { "posicao": 1, "nome": "React", "mediaSalarial": 8044.39, "participantes": 2084 },
+        { "posicao": 2, "nome": "Spring Boot", "mediaSalarial": 9663.70, "participantes": 1927 },
+        { "posicao": 3, "nome": ".NET Core", "mediaSalarial": 9840.34, "participantes": 1739 },
+        { "posicao": 4, "nome": "Outro", "mediaSalarial": 8942.21, "participantes": 1510 },
+        { "posicao": 5, "nome": "Node.js", "mediaSalarial": 8894.36, "participantes": 1192 }
+      ],
+      "estados_top10": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 8862.02, "participantes": 5640 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 8019.11, "participantes": 1879 },
+        { "posicao": 3, "uf": "PR", "mediaSalarial": 8191.91, "participantes": 1434 },
+        { "posicao": 4, "uf": "SC", "mediaSalarial": 8625.49, "participantes": 1272 },
+        { "posicao": 5, "uf": "RJ", "mediaSalarial": 8160.02, "participantes": 1238 },
+        { "posicao": 6, "uf": "RS", "mediaSalarial": 8482.43, "participantes": 1107 },
+        { "posicao": 7, "uf": "CE", "mediaSalarial": 7154.39, "participantes": 666 },
+        { "posicao": 8, "uf": "BA", "mediaSalarial": 6664.87, "participantes": 584 },
+        { "posicao": 9, "uf": "PE", "mediaSalarial": 6513.62, "participantes": 571 },
+        { "posicao": 10, "uf": "DF", "mediaSalarial": 9736.14, "participantes": 488 }
+      ]
+    },
+    "2024": {
+      "participantes": 15049,
+      "periodo": "Fev/2024 – Jun/2024",
+      "edicao": "4ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 1748.97,
+        "junior": 4079.01,
+        "pleno": 7850.47,
+        "senior": 15050.46,
+        "especialista": 18202.92
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 6.95,
+        "junior": 28.61,
+        "pleno": 32.42,
+        "senior": 22.21,
+        "especialista": 9.81
+      },
+      "modeloTrabalho": {
+        "atual": { "remoto": 65.74, "hibrido": 19.88, "presencial": 14.38 },
+        "ideal": { "remoto": 79.06, "hibrido": 19.69, "presencial": 1.25 }
+      },
+      "contratacao": {
+        "CLT": 8022.89,
+        "PJ": 12418.85,
+        "outro": 6767.38
+      },
+      "genero": {
+        "masculino": 90.4,
+        "feminino": 9.2
+      },
+      "salarioPorIdade": {
+        "13-17": 3764.22,
+        "18-24": 5052.22,
+        "25-34": 9469.28,
+        "35-44": 12994.63,
+        "45-54": 12722.34,
+        "55-64": 11522.22,
+        "65+": 7100.50
+      },
+      "satisfacao": {
+        "Muito satisfeito": 9.12,
+        "Satisfeito": 41.72,
+        "Indiferente": 11.96,
+        "Insatisfeito": 31.14,
+        "Muito insatisfeito": 6.05,
+        "satisfacaoStack_sim": 80.94
+      },
+      "ia": {
+        "utiliza": 83.61,
+        "senteProductividade_sim": 62.69,
+        "confiaCodigo_sim": 27.50,
+        "acreditaSubstituicao_sim": 5.67
+      },
+      "ferramentasIA_top6": [
+        { "posicao": 1, "nome": "ChatGPT", "percentual": 66.65 },
+        { "posicao": 2, "nome": "GitHub Copilot", "percentual": 13.51 },
+        { "posicao": 3, "nome": "Nenhuma", "percentual": 10.90 },
+        { "posicao": 4, "nome": "Outra", "percentual": 2.01 },
+        { "posicao": 5, "nome": "Microsoft Copilot", "percentual": 2.00 },
+        { "posicao": 6, "nome": "Google Gemini", "percentual": 1.51 }
+      ],
+      "saudeMental": { "ansiedade": 72.7 },
+      "linguagens_top10": [
+        { "posicao": 1, "nome": "JavaScript", "mediaSalarial": 8021.90, "participantes": 2638 },
+        { "posicao": 2, "nome": "C#", "mediaSalarial": 9093.60, "participantes": 2379 },
+        { "posicao": 3, "nome": "Java", "mediaSalarial": 9639.04, "participantes": 2270 },
+        { "posicao": 4, "nome": "TypeScript", "mediaSalarial": 8896.22, "participantes": 1640 },
+        { "posicao": 5, "nome": "Python", "mediaSalarial": 8779.64, "participantes": 1458 },
+        { "posicao": 6, "nome": "PHP", "mediaSalarial": 7604.55, "participantes": 1379 },
+        { "posicao": 7, "nome": "Dart", "mediaSalarial": 8766.52, "participantes": 421 },
+        { "posicao": 8, "nome": "Kotlin", "mediaSalarial": 11717.68, "participantes": 320 },
+        { "posicao": 9, "nome": "Go", "mediaSalarial": 14518.93, "participantes": 271 },
+        { "posicao": 10, "nome": "Delphi (Object Pascal)", "mediaSalarial": 7370.65, "participantes": 258 }
+      ],
+      "frameworks_top5": [
+        { "posicao": 1, "nome": ".NET (Standard, Core, Framework)", "mediaSalarial": 9033.27, "participantes": 2166 },
+        { "posicao": 2, "nome": "Spring Boot", "mediaSalarial": 10405.61, "participantes": 1739 },
+        { "posicao": 3, "nome": "React", "mediaSalarial": 8441.70, "participantes": 1463 },
+        { "posicao": 4, "nome": "Node.js", "mediaSalarial": 9883.38, "participantes": 1046 },
+        { "posicao": 5, "nome": "Outro", "mediaSalarial": 9211.92, "participantes": 953 }
+      ],
+      "estados_top10": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 9321.97, "participantes": 4837 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 8203.49, "participantes": 1633 },
+        { "posicao": 3, "uf": "SC", "mediaSalarial": 9034.13, "participantes": 1189 },
+        { "posicao": 4, "uf": "PR", "mediaSalarial": 8744.79, "participantes": 1185 },
+        { "posicao": 5, "uf": "RJ", "mediaSalarial": 8436.31, "participantes": 1005 },
+        { "posicao": 6, "uf": "RS", "mediaSalarial": 8338.17, "participantes": 921 },
+        { "posicao": 7, "uf": "CE", "mediaSalarial": 7621.87, "participantes": 519 },
+        { "posicao": 8, "uf": "BA", "mediaSalarial": 7060.99, "participantes": 438 },
+        { "posicao": 9, "uf": "PE", "mediaSalarial": 7636.00, "participantes": 428 },
+        { "posicao": 10, "uf": "GO", "mediaSalarial": 8901.74, "participantes": 400 }
+      ]
+    },
+    "2025": {
+      "participantes": 12510,
+      "periodo": "Mar/2025 – Jul/2025",
+      "edicao": "5ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 1743.40,
+        "junior": 4154.21,
+        "pleno": 7840.74,
+        "senior": 15635.35,
+        "especialista": 19290.08
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 5.10,
+        "junior": 24.47,
+        "pleno": 33.75,
+        "senior": 24.92,
+        "especialista": 11.76
+      },
+      "modeloTrabalho": {
+        "atual": { "remoto": 61.77, "hibrido": 21.69, "presencial": 16.54 },
+        "ideal": { "remoto": 78.16, "hibrido": 20.50, "presencial": 1.34 }
+      },
+      "contratacao": {
+        "CLT": 8886.72,
+        "PJ": 13344.77,
+        "outro": 7957.97
+      },
+      "genero": {
+        "masculino": 92.6,
+        "feminino": 7.1
+      },
+      "salarioPorIdade": {
+        "13-17": 2842.50,
+        "18-24": 5251.66,
+        "25-34": 10030.39,
+        "35-44": 14213.60,
+        "45-54": 14449.05,
+        "55-64": 13189.68,
+        "65+": 10313.00
+      },
+      "satisfacao": {
+        "Muito satisfeito": 0.00,
+        "Satisfeito": 43.80,
+        "Indiferente": 12.45,
+        "Insatisfeito": 36.57,
+        "Muito insatisfeito": 7.18,
+        "satisfacaoStack_sim": 80.74
+      },
+      "ia": {
+        "utiliza": 95.52,
+        "senteProductividade_sim": 76.59,
+        "confiaCodigo_sim": 30.38,
+        "acreditaSubstituicao_sim": 6.64
+      },
+      "ferramentasIA_top10": [
+        { "posicao": 1, "nome": "ChatGPT", "percentual": 62.92 },
+        { "posicao": 2, "nome": "GitHub Copilot", "percentual": 11.70 },
+        { "posicao": 3, "nome": "Nenhuma", "percentual": 5.41 },
+        { "posicao": 4, "nome": "DeepSeek", "percentual": 3.94 },
+        { "posicao": 5, "nome": "Anthropic Claude", "percentual": 3.80 },
+        { "posicao": 6, "nome": "Gemini", "percentual": 3.54 },
+        { "posicao": 7, "nome": "Microsoft Copilot", "percentual": 3.54 },
+        { "posicao": 8, "nome": "Outra", "percentual": 2.98 },
+        { "posicao": 9, "nome": "Grok", "percentual": 1.11 },
+        { "posicao": 10, "nome": "Codeium", "percentual": 1.05 }
+      ],
+      "pressaoParaPresencial_sim": 39.45,
+      "saudeMental": { "ansiedade": 72.4 },
+      "linguagens_top10": [
+        { "posicao": 1, "nome": "Java", "mediaSalarial": 10735.79, "participantes": 2091 },
+        { "posicao": 2, "nome": "C#", "mediaSalarial": 10195.72, "participantes": 1803 },
+        { "posicao": 3, "nome": "JavaScript", "mediaSalarial": 8896.38, "participantes": 1628 },
+        { "posicao": 4, "nome": "TypeScript", "mediaSalarial": 9627.67, "participantes": 1549 },
+        { "posicao": 5, "nome": "Python", "mediaSalarial": 9506.39, "participantes": 1357 },
+        { "posicao": 6, "nome": "PHP", "mediaSalarial": 8540.63, "participantes": 1171 },
+        { "posicao": 7, "nome": "Dart", "mediaSalarial": 8894.25, "participantes": 400 },
+        { "posicao": 8, "nome": "Go", "mediaSalarial": 14319.35, "participantes": 265 },
+        { "posicao": 9, "nome": "Kotlin", "mediaSalarial": 12790.87, "participantes": 260 },
+        { "posicao": 10, "nome": "SQL", "mediaSalarial": 8257.11, "participantes": 189 }
+      ],
+      "frameworks_top5": [
+        { "posicao": 1, "nome": ".NET (Standard, Core, Framework)", "mediaSalarial": 10365.17, "participantes": 1670 },
+        { "posicao": 2, "nome": "Spring Boot", "mediaSalarial": 11239.65, "participantes": 1591 },
+        { "posicao": 3, "nome": "React", "mediaSalarial": 9224.07, "participantes": 984 },
+        { "posicao": 4, "nome": "Outro", "mediaSalarial": 10091.96, "participantes": 809 },
+        { "posicao": 5, "nome": "Nenhum", "mediaSalarial": 9876.37, "participantes": 713 }
+      ],
+      "estados_top10": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 10338.70, "participantes": 4067 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 9246.95, "participantes": 1268 },
+        { "posicao": 3, "uf": "PR", "mediaSalarial": 9203.27, "participantes": 1011 },
+        { "posicao": 4, "uf": "SC", "mediaSalarial": 9135.42, "participantes": 945 },
+        { "posicao": 5, "uf": "RJ", "mediaSalarial": 9823.61, "participantes": 848 },
+        { "posicao": 6, "uf": "RS", "mediaSalarial": 9538.69, "participantes": 733 },
+        { "posicao": 7, "uf": "CE", "mediaSalarial": 8553.45, "participantes": 491 },
+        { "posicao": 8, "uf": "GO", "mediaSalarial": 9384.69, "participantes": 367 },
+        { "posicao": 9, "uf": "BA", "mediaSalarial": 8643.95, "participantes": 359 },
+        { "posicao": 10, "uf": "DF", "mediaSalarial": 10752.63, "participantes": 351 }
+      ]
+    },
+    "2026": {
+      "participantes": 17046,
+      "periodo": "Fev/2026 – Jun/2026",
+      "edicao": "6ª",
+      "mediaSalarialPorNivel": {
+        "estagio": 2586.84,
+        "junior": 5060.34,
+        "pleno": 8466.52,
+        "senior": 14607.85,
+        "especialista": 20601.64
+      },
+      "distribuicaoPorNivel": {
+        "estagio": 3.87,
+        "junior": 19.85,
+        "pleno": 32.98,
+        "senior": 29.67,
+        "especialista": 13.63
+      },
+      "modeloTrabalho": {
+        "atual": { "remoto": 60.08, "hibrido": 22.44, "presencial": 17.48 },
+        "ideal": { "remoto": 76.67, "hibrido": 21.82, "presencial": 1.51 }
+      },
+      "contratacao": {
+        "CLT": 10165.98,
+        "PJ": 13436.23,
+        "outro": 10199.77,
+        "diferencialPJ_CLT": 3270.25,
+        "premioPJ_percentual": 32.2
+      },
+      "genero": {
+        "masculino": 93.0,
+        "feminino": 6.7
+      },
+      "salarioPorIdade": {
+        "13-17": 6821.86,
+        "18-24": 6325.24,
+        "25-34": 10633.32,
+        "35-44": 14400.57,
+        "45-54": 16945.96,
+        "55-64": 19895.99,
+        "65+": 20967.13
+      },
+      "satisfacao": {
+        "Muito satisfeito": 0.00,
+        "Satisfeito": 43.02,
+        "Indiferente": 13.83,
+        "Insatisfeito": 36.30,
+        "Muito insatisfeito": 6.85,
+        "satisfacaoStack_sim": 82.96
+      },
+      "ia": {
+        "utiliza": 98.47,
+        "senteProductividade_sim": 77.23,
+        "confiaCodigo_sim": 36.94,
+        "acreditaSubstituicao_sim": 10.91,
+        "implementouFuncionalidadeIA_sim": 68.59,
+        "vibeCoding_diariamente": 26.97,
+        "vibeCoding_nunca_manual": 32.69
+      },
+      "ferramentasIA_top10": [
+        { "posicao": 1, "nome": "Claude Code (Anthropic)", "percentual": 36.00 },
+        { "posicao": 2, "nome": "ChatGPT", "percentual": 20.39 },
+        { "posicao": 3, "nome": "GitHub Copilot", "percentual": 14.49 },
+        { "posicao": 4, "nome": "Gemini", "percentual": 13.12 },
+        { "posicao": 5, "nome": "Outra", "percentual": 3.84 },
+        { "posicao": 6, "nome": "Codex CLI", "percentual": 3.80 },
+        { "posicao": 7, "nome": "Microsoft Copilot", "percentual": 3.12 },
+        { "posicao": 8, "nome": "Nenhuma", "percentual": 2.95 },
+        { "posicao": 9, "nome": "Gemini Code Assist", "percentual": 1.42 },
+        { "posicao": 10, "nome": "Amazon Q Developer", "percentual": 0.87 }
+      ],
+      "pressaoParaPresencial_sim": 39.48,
+      "saudeMental": { "ansiedade": 73.1 },
+      "linguagens_top10": [
+        { "posicao": 1, "nome": "Java", "mediaSalarial": 11456.87, "participantes": 2808 },
+        { "posicao": 2, "nome": "C#", "mediaSalarial": 11206.42, "participantes": 2496 },
+        { "posicao": 3, "nome": "TypeScript", "mediaSalarial": 11142.04, "participantes": 2402 },
+        { "posicao": 4, "nome": "Python", "mediaSalarial": 10644.32, "participantes": 2350 },
+        { "posicao": 5, "nome": "JavaScript", "mediaSalarial": 10070.66, "participantes": 1988 },
+        { "posicao": 6, "nome": "PHP", "mediaSalarial": 10210.08, "participantes": 1670 },
+        { "posicao": 7, "nome": "Go", "mediaSalarial": 13641.58, "participantes": 404 },
+        { "posicao": 8, "nome": "Kotlin", "mediaSalarial": 13505.59, "participantes": 392 },
+        { "posicao": 9, "nome": "Dart", "mediaSalarial": 10565.06, "participantes": 302 },
+        { "posicao": 10, "nome": "Delphi (Object Pascal)", "mediaSalarial": 9364.84, "participantes": 258 }
+      ],
+      "frameworks_top5": [
+        { "posicao": 1, "nome": "Spring Boot", "mediaSalarial": 11865.32, "participantes": 2408 },
+        { "posicao": 2, "nome": ".NET (Standard, Core, Framework)", "mediaSalarial": 11645.61, "participantes": 2343 },
+        { "posicao": 3, "nome": "React", "mediaSalarial": 10479.97, "participantes": 1291 },
+        { "posicao": 4, "nome": "Outro", "mediaSalarial": 11003.72, "participantes": 1086 },
+        { "posicao": 5, "nome": "Laravel", "mediaSalarial": 9901.85, "participantes": 1034 }
+      ],
+      "estados_top10": [
+        { "posicao": 1, "uf": "SP", "mediaSalarial": 11113.03, "participantes": 5274 },
+        { "posicao": 2, "uf": "MG", "mediaSalarial": 10565.64, "participantes": 1750 },
+        { "posicao": 3, "uf": "SC", "mediaSalarial": 11166.93, "participantes": 1409 },
+        { "posicao": 4, "uf": "PR", "mediaSalarial": 10160.05, "participantes": 1335 },
+        { "posicao": 5, "uf": "RJ", "mediaSalarial": 10382.38, "participantes": 1126 },
+        { "posicao": 6, "uf": "RS", "mediaSalarial": 11329.70, "participantes": 1010 },
+        { "posicao": 7, "uf": "CE", "mediaSalarial": 10348.04, "participantes": 692 },
+        { "posicao": 8, "uf": "GO", "mediaSalarial": 10084.12, "participantes": 562 },
+        { "posicao": 9, "uf": "DF", "mediaSalarial": 11796.62, "participantes": 542 },
+        { "posicao": 10, "uf": "PE", "mediaSalarial": 10318.31, "participantes": 505 }
+      ]
+    }
+  }
+}

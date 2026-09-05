@@ -1,0 +1,20 @@
+{
+  "name": "pesquisa-salarial-programadores-br",
+  "version": "1.0.0",
+  "description": "Coletor das seis edições (2021–2026) da Pesquisa Salarial de Programadores Brasileiros do canal Código Fonte TV",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": ["web-scraping", "salarios", "programadores", "brasil", "pesquisa", "dataset"],
+  "author": "Italo Oliveira Gomes <italo.oliveira.gomes07@aluno.ifce.edu.br>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/italoog/pesquisa-salarial-programadores-br.git"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0"
+  }
+}

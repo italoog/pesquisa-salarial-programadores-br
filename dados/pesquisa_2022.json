@@ -1,0 +1,2158 @@
+{
+  "ano": 2022,
+  "url": "https://pesquisa.codigofonte.com.br/2022",
+  "coletadoEm": "2026-02-08T21:50:31.372Z",
+  "participantes": {
+    "total": 11521
+  },
+  "mediaSalarialPorNivel": {
+    "Estágio": 1744.24,
+    "Júnior": 3658.92,
+    "Pleno": 7387.42,
+    "Sênior": 14399.46,
+    "Outro": 13012.34
+  },
+  "programadoresPorNivel": {
+    "Pleno": 31.05,
+    "Júnior": 31.94,
+    "Sênior": 25.99,
+    "Estágio": 8.1,
+    "Outro": 2.93
+  },
+  "modeloTrabalho": {
+    "remoto": 75.05,
+    "hibrido": 14.36,
+    "presencial": 10.59
+  },
+  "contratacao": {
+    "CLT": 6702.63,
+    "PJ": 11255.72
+  },
+  "genero": {
+    "masculino": 92.1,
+    "feminino": 7.5
+  },
+  "idadeProgramadores": {
+    "13-17": 0.54,
+    "18-24": 34.03,
+    "25-34": 48.52,
+    "35-44": 14.23,
+    "45-54": 2.38,
+    "55-64": 0.27,
+    "65+": 0.03
+  },
+  "salarioPorIdade": {
+    "13-17": 2710.01,
+    "18-24": 4885.46,
+    "25-34": 8609.26,
+    "35-44": 10900.49,
+    "45-54": 12009.6,
+    "55-64": 11064.97,
+    "65+": 18000.5
+  },
+  "transicaoCarreira": 34.94,
+  "satisfacao": {
+    "Satisfeito": 47.49,
+    "Insatisfeito": 25.08,
+    "Muito insatisfeito": 3.77,
+    "Indiferente": 12.19
+  },
+  "formacaoEducacional": {
+    "Superior completo": 40.42,
+    "Superior em andamento": 26.21,
+    "Pós-graduação / MBA": 13.38,
+    "Superior incompleto": 10.6,
+    "Não fiz faculdade": 6.74,
+    "Mestrado / Doutorado": 2.65
+  },
+  "linguagens": [
+    {
+      "posicao": 1,
+      "nome": "JAVASCRIPT",
+      "mediaSalarial": 7113,
+      "participantes": 783557
+    },
+    {
+      "posicao": 2,
+      "nome": "JAVA",
+      "mediaSalarial": 8070,
+      "participantes": 312048
+    },
+    {
+      "posicao": 3,
+      "nome": "C#",
+      "mediaSalarial": 7810,
+      "participantes": 901614
+    },
+    {
+      "posicao": 4,
+      "nome": "PHP",
+      "mediaSalarial": 6209,
+      "participantes": 531227
+    },
+    {
+      "posicao": 5,
+      "nome": "PYTHON",
+      "mediaSalarial": 8585,
+      "participantes": 61881
+    },
+    {
+      "posicao": 6,
+      "nome": "TYPESCRIPT",
+      "mediaSalarial": 7209,
+      "participantes": 55464
+    },
+    {
+      "posicao": 7,
+      "nome": "KOTLIN",
+      "mediaSalarial": 9413,
+      "participantes": 14269
+    },
+    {
+      "posicao": 8,
+      "nome": "DART",
+      "mediaSalarial": 6459,
+      "participantes": 89234
+    },
+    {
+      "posicao": 9,
+      "nome": "DELPHI",
+      "mediaSalarial": 6492,
+      "participantes": 76194
+    },
+    {
+      "posicao": 10,
+      "nome": "RUBY",
+      "mediaSalarial": 10143,
+      "participantes": 72185
+    },
+    {
+      "posicao": 11,
+      "nome": "GO",
+      "mediaSalarial": 13063,
+      "participantes": 78158
+    },
+    {
+      "posicao": 12,
+      "nome": "SWIFT",
+      "mediaSalarial": 10571,
+      "participantes": 92133
+    },
+    {
+      "posicao": 13,
+      "nome": "SQL",
+      "mediaSalarial": 6456,
+      "participantes": 5391
+    },
+    {
+      "posicao": 14,
+      "nome": ".NET (CORE)",
+      "mediaSalarial": 10281,
+      "participantes": 4089
+    },
+    {
+      "posicao": 15,
+      "nome": "BUBBLE",
+      "mediaSalarial": 7418,
+      "participantes": 1485
+    },
+    {
+      "posicao": 16,
+      "nome": "C++",
+      "mediaSalarial": 11924,
+      "participantes": 1072
+    },
+    {
+      "posicao": 17,
+      "nome": "APEX",
+      "mediaSalarial": 9336,
+      "participantes": 5661
+    },
+    {
+      "posicao": 18,
+      "nome": "C",
+      "mediaSalarial": 7194,
+      "participantes": 3749
+    },
+    {
+      "posicao": 19,
+      "nome": "PL/SQL",
+      "mediaSalarial": 8488,
+      "participantes": 8743
+    },
+    {
+      "posicao": 20,
+      "nome": "ELIXIR",
+      "mediaSalarial": 17910,
+      "participantes": 7139
+    },
+    {
+      "posicao": 21,
+      "nome": "ADVPL",
+      "mediaSalarial": 8847,
+      "participantes": 7236
+    },
+    {
+      "posicao": 22,
+      "nome": "CLOJURE",
+      "mediaSalarial": 14500,
+      "participantes": 5022
+    },
+    {
+      "posicao": 23,
+      "nome": "ABAP",
+      "mediaSalarial": 9975,
+      "participantes": 5020
+    },
+    {
+      "posicao": 25,
+      "nome": "HTML",
+      "mediaSalarial": 4469,
+      "participantes": 1916
+    },
+    {
+      "posicao": 26,
+      "nome": "NO CODE",
+      "mediaSalarial": 7800,
+      "participantes": 4315
+    },
+    {
+      "posicao": 27,
+      "nome": "POWER FX",
+      "mediaSalarial": 5821,
+      "participantes": 9314
+    },
+    {
+      "posicao": 28,
+      "nome": "VB.NET",
+      "mediaSalarial": 9542,
+      "participantes": 1712
+    },
+    {
+      "posicao": 29,
+      "nome": "COBOL",
+      "mediaSalarial": 14611,
+      "participantes": 569
+    },
+    {
+      "posicao": 30,
+      "nome": "SHELL",
+      "mediaSalarial": 9056,
+      "participantes": 69
+    },
+    {
+      "posicao": 31,
+      "nome": "PASCAL",
+      "mediaSalarial": 4389,
+      "participantes": 399
+    },
+    {
+      "posicao": 32,
+      "nome": "BASH",
+      "mediaSalarial": 11688,
+      "participantes": 8
+    },
+    {
+      "posicao": 33,
+      "nome": "PROGRESS",
+      "mediaSalarial": 6063,
+      "participantes": 8
+    },
+    {
+      "posicao": 34,
+      "nome": "SCALA",
+      "mediaSalarial": 12063,
+      "participantes": 8
+    },
+    {
+      "posicao": 36,
+      "nome": "RUST",
+      "mediaSalarial": 25857,
+      "participantes": 507
+    },
+    {
+      "posicao": 37,
+      "nome": "CSS",
+      "mediaSalarial": 3929,
+      "participantes": 77
+    },
+    {
+      "posicao": 38,
+      "nome": "GENEXUS",
+      "mediaSalarial": 10667,
+      "participantes": 176
+    },
+    {
+      "posicao": 39,
+      "nome": "LUA",
+      "mediaSalarial": 2667,
+      "participantes": 176
+    },
+    {
+      "posicao": 40,
+      "nome": "GROOVY",
+      "mediaSalarial": 8583,
+      "participantes": 836
+    },
+    {
+      "posicao": 41,
+      "nome": "VBA",
+      "mediaSalarial": 3000,
+      "participantes": 506
+    },
+    {
+      "posicao": 42,
+      "nome": "SHELL SCRIPT",
+      "mediaSalarial": 11000,
+      "participantes": 505
+    },
+    {
+      "posicao": 43,
+      "nome": "POWER PLATFORM",
+      "mediaSalarial": 9375,
+      "participantes": 504
+    },
+    {
+      "posicao": 44,
+      "nome": "MAKER",
+      "mediaSalarial": 8875,
+      "participantes": 504
+    },
+    {
+      "posicao": 45,
+      "nome": "OUTSYSTEMS",
+      "mediaSalarial": 6250,
+      "participantes": 504
+    },
+    {
+      "posicao": 46,
+      "nome": "UNIFACE",
+      "mediaSalarial": 5833,
+      "participantes": 833
+    },
+    {
+      "posicao": 47,
+      "nome": "PERL",
+      "mediaSalarial": 5167,
+      "participantes": 173
+    },
+    {
+      "posicao": 48,
+      "nome": "YAML",
+      "mediaSalarial": 9500,
+      "participantes": 503
+    },
+    {
+      "posicao": 49,
+      "nome": "OBJECT PASCAL",
+      "mediaSalarial": 3833,
+      "participantes": 833
+    },
+    {
+      "posicao": 50,
+      "nome": "SQL SERVER",
+      "mediaSalarial": 7500,
+      "participantes": 503
+    },
+    {
+      "posicao": 51,
+      "nome": "POWERSHELL",
+      "mediaSalarial": 6500,
+      "participantes": 503
+    },
+    {
+      "posicao": 52,
+      "nome": "REACT",
+      "mediaSalarial": 5500,
+      "participantes": 503
+    },
+    {
+      "posicao": 53,
+      "nome": "TERRAFORM",
+      "mediaSalarial": 13833,
+      "participantes": 833
+    },
+    {
+      "posicao": 54,
+      "nome": "CENTURA",
+      "mediaSalarial": 4833,
+      "participantes": 833
+    },
+    {
+      "posicao": 55,
+      "nome": "R",
+      "mediaSalarial": 6167,
+      "participantes": 173
+    },
+    {
+      "posicao": 56,
+      "nome": "BI",
+      "mediaSalarial": 2000,
+      "participantes": 252
+    },
+    {
+      "posicao": 57,
+      "nome": "POWERAPPS",
+      "mediaSalarial": 4000,
+      "participantes": 502
+    },
+    {
+      "posicao": 58,
+      "nome": "SPARK",
+      "mediaSalarial": 31250,
+      "participantes": 502
+    },
+    {
+      "posicao": 59,
+      "nome": "SELENIUM",
+      "mediaSalarial": 3000,
+      "participantes": 502
+    },
+    {
+      "posicao": 60,
+      "nome": "HCL",
+      "mediaSalarial": 19250,
+      "participantes": 502
+    }
+  ],
+  "frameworks": [
+    {
+      "posicao": 1,
+      "nome": "REACT",
+      "mediaSalarial": 7985,
+      "participantes": 112958
+    },
+    {
+      "posicao": 2,
+      "nome": "NODE.JS",
+      "mediaSalarial": 8210,
+      "participantes": 362361
+    },
+    {
+      "posicao": 3,
+      "nome": "ANGULAR",
+      "mediaSalarial": 7960,
+      "participantes": 511826
+    },
+    {
+      "posicao": 4,
+      "nome": "VUE.JS",
+      "mediaSalarial": 7399,
+      "participantes": 66962
+    },
+    {
+      "posicao": 5,
+      "nome": "SPRING",
+      "mediaSalarial": 8718,
+      "participantes": 39810
+    },
+    {
+      "posicao": 6,
+      "nome": "LARAVEL",
+      "mediaSalarial": 6704,
+      "participantes": 50772
+    },
+    {
+      "posicao": 7,
+      "nome": ".NET",
+      "mediaSalarial": 7772,
+      "participantes": 68676
+    },
+    {
+      "posicao": 8,
+      "nome": "FLUTTER",
+      "mediaSalarial": 8388,
+      "participantes": 41629
+    },
+    {
+      "posicao": 9,
+      "nome": "SPRING BOOT",
+      "mediaSalarial": 7851,
+      "participantes": 87545
+    },
+    {
+      "posicao": 10,
+      "nome": "REACT NATIVE",
+      "mediaSalarial": 8273,
+      "participantes": 70474
+    },
+    {
+      "posicao": 11,
+      "nome": "DJANGO",
+      "mediaSalarial": 8895,
+      "participantes": 86325
+    },
+    {
+      "posicao": 12,
+      "nome": "NEXT.JS",
+      "mediaSalarial": 8134,
+      "participantes": 18288
+    },
+    {
+      "posicao": 13,
+      "nome": "NEST.JS",
+      "mediaSalarial": 8599,
+      "participantes": 31253
+    },
+    {
+      "posicao": 14,
+      "nome": ".NET CORE",
+      "mediaSalarial": 8315,
+      "participantes": 56219
+    },
+    {
+      "posicao": 15,
+      "nome": "RAILS",
+      "mediaSalarial": 10623,
+      "participantes": 7208
+    },
+    {
+      "posicao": 16,
+      "nome": "DOCKER",
+      "mediaSalarial": 8552,
+      "participantes": 48202
+    },
+    {
+      "posicao": 17,
+      "nome": "AWS",
+      "mediaSalarial": 11369,
+      "participantes": 18198
+    },
+    {
+      "posicao": 18,
+      "nome": "JQUERY",
+      "mediaSalarial": 5433,
+      "participantes": 82180
+    },
+    {
+      "posicao": 19,
+      "nome": "FLASK",
+      "mediaSalarial": 8221,
+      "participantes": 34163
+    },
+    {
+      "posicao": 20,
+      "nome": "BOOTSTRAP",
+      "mediaSalarial": 4484,
+      "participantes": 74159
+    },
+    {
+      "posicao": 21,
+      "nome": "EXPRESS",
+      "mediaSalarial": 9077,
+      "participantes": 9124
+    },
+    {
+      "posicao": 22,
+      "nome": "MYSQL",
+      "mediaSalarial": 6392,
+      "participantes": 15120
+    },
+    {
+      "posicao": 23,
+      "nome": "IONIC",
+      "mediaSalarial": 8519,
+      "participantes": 91103
+    },
+    {
+      "posicao": 24,
+      "nome": "ANGULARJS",
+      "mediaSalarial": 6777,
+      "participantes": 1094
+    },
+    {
+      "posicao": 25,
+      "nome": "MONGODB",
+      "mediaSalarial": 8726,
+      "participantes": 3093
+    },
+    {
+      "posicao": 26,
+      "nome": "KUBERNETES",
+      "mediaSalarial": 13700,
+      "participantes": 5090
+    },
+    {
+      "posicao": 27,
+      "nome": "ANDROID",
+      "mediaSalarial": 11435,
+      "participantes": 284
+    },
+    {
+      "posicao": 28,
+      "nome": "KAFKA",
+      "mediaSalarial": 9475,
+      "participantes": 8181
+    },
+    {
+      "posicao": 29,
+      "nome": "CODEIGNITER",
+      "mediaSalarial": 4796,
+      "participantes": 7881
+    },
+    {
+      "posicao": 30,
+      "nome": "FASTAPI",
+      "mediaSalarial": 8753,
+      "participantes": 8375
+    },
+    {
+      "posicao": 31,
+      "nome": "ASP.NET",
+      "mediaSalarial": 6774,
+      "participantes": 4673
+    },
+    {
+      "posicao": 32,
+      "nome": "GIT",
+      "mediaSalarial": 7555,
+      "participantes": 2973
+    },
+    {
+      "posicao": 33,
+      "nome": "PANDAS",
+      "mediaSalarial": 7667,
+      "participantes": 1669
+    },
+    {
+      "posicao": 34,
+      "nome": "QUARKUS",
+      "mediaSalarial": 10290,
+      "participantes": 3569
+    },
+    {
+      "posicao": 35,
+      "nome": "SQL SERVER",
+      "mediaSalarial": 7750,
+      "participantes": 4966
+    },
+    {
+      "posicao": 36,
+      "nome": "SYMPHONY",
+      "mediaSalarial": 9108,
+      "participantes": 8360
+    },
+    {
+      "posicao": 37,
+      "nome": "WORDPRESS",
+      "mediaSalarial": 7792,
+      "participantes": 1660
+    },
+    {
+      "posicao": 38,
+      "nome": "GRAPHQL",
+      "mediaSalarial": 11237,
+      "participantes": 7959
+    },
+    {
+      "posicao": 39,
+      "nome": "HIBERNATE",
+      "mediaSalarial": 7305,
+      "participantes": 5859
+    },
+    {
+      "posicao": 40,
+      "nome": "POSTGRESQL",
+      "mediaSalarial": 7118,
+      "participantes": 6655
+    },
+    {
+      "posicao": 41,
+      "nome": ".NET FRAMEWORK",
+      "mediaSalarial": 8636,
+      "participantes": 8655
+    },
+    {
+      "posicao": 42,
+      "nome": "KOTLIN",
+      "mediaSalarial": 12750,
+      "participantes": 4954
+    },
+    {
+      "posicao": 43,
+      "nome": "JSF",
+      "mediaSalarial": 6292,
+      "participantes": 9353
+    },
+    {
+      "posicao": 44,
+      "nome": "BUBBLE",
+      "mediaSalarial": 8214,
+      "participantes": 7949
+    },
+    {
+      "posicao": 45,
+      "nome": "XAMARIN",
+      "mediaSalarial": 10818,
+      "participantes": 6744
+    },
+    {
+      "posicao": 46,
+      "nome": "REACT-NATIVE",
+      "mediaSalarial": 7733,
+      "participantes": 343
+    },
+    {
+      "posicao": 47,
+      "nome": "ASP.NET CORE",
+      "mediaSalarial": 6854,
+      "participantes": 1641
+    },
+    {
+      "posicao": 48,
+      "nome": "AZURE",
+      "mediaSalarial": 12550,
+      "participantes": 5040
+    },
+    {
+      "posicao": 49,
+      "nome": "SPRING FRAMEWORK",
+      "mediaSalarial": 8512,
+      "participantes": 9940
+    },
+    {
+      "posicao": 50,
+      "nome": "POSTGRES",
+      "mediaSalarial": 7115,
+      "participantes": 8839
+    },
+    {
+      "posicao": 51,
+      "nome": "SPARK",
+      "mediaSalarial": 12053,
+      "participantes": 1338
+    },
+    {
+      "posicao": 52,
+      "nome": "LUMEN",
+      "mediaSalarial": 7833,
+      "participantes": 8336
+    },
+    {
+      "posicao": 53,
+      "nome": "RABBITMQ",
+      "mediaSalarial": 9814,
+      "participantes": 7935
+    },
+    {
+      "posicao": 54,
+      "nome": "NUXT",
+      "mediaSalarial": 5914,
+      "participantes": 7935
+    },
+    {
+      "posicao": 55,
+      "nome": "PHOENIX",
+      "mediaSalarial": 17750,
+      "participantes": 4634
+    },
+    {
+      "posicao": 56,
+      "nome": "TERRAFORM",
+      "mediaSalarial": 17912,
+      "participantes": 2634
+    },
+    {
+      "posicao": 57,
+      "nome": "ORACLE",
+      "mediaSalarial": 8279,
+      "participantes": 9134
+    },
+    {
+      "posicao": 58,
+      "nome": "REDIS",
+      "mediaSalarial": 10132,
+      "participantes": 8534
+    },
+    {
+      "posicao": 59,
+      "nome": "REACT JS",
+      "mediaSalarial": 7324,
+      "participantes": 134
+    },
+    {
+      "posicao": 60,
+      "nome": "SERVERLESS",
+      "mediaSalarial": 9985,
+      "participantes": 3533
+    }
+  ],
+  "estados": [
+    {
+      "posicao": 1,
+      "estado": "São Paulo (SP)",
+      "mediaSalarial": 7938,
+      "participantes": 213701
+    },
+    {
+      "posicao": 2,
+      "estado": "Minas Gerais (MG)",
+      "mediaSalarial": 7652,
+      "participantes": 641275
+    },
+    {
+      "posicao": 3,
+      "estado": "Paraná (PR)",
+      "mediaSalarial": 7978,
+      "participantes": 40860
+    },
+    {
+      "posicao": 4,
+      "estado": "Rio de Janeiro (RJ)",
+      "mediaSalarial": 7520,
+      "participantes": 80812
+    },
+    {
+      "posicao": 5,
+      "estado": "Santa Catarina (SC)",
+      "mediaSalarial": 8147,
+      "participantes": 89770
+    },
+    {
+      "posicao": 6,
+      "estado": "Rio Grande do Sul (RS)",
+      "mediaSalarial": 7168,
+      "participantes": 53729
+    },
+    {
+      "posicao": 7,
+      "estado": "Ceará (CE)",
+      "mediaSalarial": 7071,
+      "participantes": 91434
+    },
+    {
+      "posicao": 8,
+      "estado": "Pernambuco (PE)",
+      "mediaSalarial": 5543,
+      "participantes": 37373
+    },
+    {
+      "posicao": 9,
+      "estado": "Bahia (BA)",
+      "mediaSalarial": 6490,
+      "participantes": 25342
+    },
+    {
+      "posicao": 10,
+      "estado": "Distrito Federal (DF)",
+      "mediaSalarial": 8093,
+      "participantes": 86332
+    },
+    {
+      "posicao": 11,
+      "estado": "Goiás (GO)",
+      "mediaSalarial": 8051,
+      "participantes": 67254
+    },
+    {
+      "posicao": 12,
+      "estado": "Espírito Santo (ES)",
+      "mediaSalarial": 7036,
+      "participantes": 88206
+    },
+    {
+      "posicao": 13,
+      "estado": "Paraíba (PB)",
+      "mediaSalarial": 6434,
+      "participantes": 18181
+    },
+    {
+      "posicao": 14,
+      "estado": "Rio Grande do Norte (RN)",
+      "mediaSalarial": 6279,
+      "participantes": 38147
+    },
+    {
+      "posicao": 15,
+      "estado": "Mato Grosso do Sul (MS)",
+      "mediaSalarial": 6309,
+      "participantes": 65131
+    },
+    {
+      "posicao": 16,
+      "estado": "Pará (PA)",
+      "mediaSalarial": 6643,
+      "participantes": 93122
+    },
+    {
+      "posicao": 17,
+      "estado": "Amazonas (AM)",
+      "mediaSalarial": 5598,
+      "participantes": 53102
+    },
+    {
+      "posicao": 18,
+      "estado": "Mato Grosso (MT)",
+      "mediaSalarial": 7464,
+      "participantes": 7998
+    },
+    {
+      "posicao": 19,
+      "estado": "Sergipe (SE)",
+      "mediaSalarial": 5474,
+      "participantes": 7297
+    },
+    {
+      "posicao": 20,
+      "estado": "Maranhão (MA)",
+      "mediaSalarial": 6744,
+      "participantes": 8188
+    },
+    {
+      "posicao": 21,
+      "estado": "Alagoas (AL)",
+      "mediaSalarial": 6331,
+      "participantes": 6677
+    },
+    {
+      "posicao": 22,
+      "estado": "Piauí (PI)",
+      "mediaSalarial": 5350,
+      "participantes": 5070
+    },
+    {
+      "posicao": 23,
+      "estado": "Tocantins (TO)",
+      "mediaSalarial": 5982,
+      "participantes": 6156
+    },
+    {
+      "posicao": 24,
+      "estado": "Rondônia (RO)",
+      "mediaSalarial": 5720,
+      "participantes": 4850
+    },
+    {
+      "posicao": 25,
+      "estado": "Acre (AC)",
+      "mediaSalarial": 9769,
+      "participantes": 6513
+    },
+    {
+      "posicao": 26,
+      "estado": "Amapá (AP)",
+      "mediaSalarial": 4375,
+      "participantes": 504
+    },
+    {
+      "posicao": 27,
+      "estado": "Roraima (RR)",
+      "mediaSalarial": 7125,
+      "participantes": 504
+    },
+    {
+      "posicao": 1,
+      "estado": "JAVASCRIPT",
+      "mediaSalarial": 7113,
+      "participantes": 783557
+    },
+    {
+      "posicao": 2,
+      "estado": "JAVA",
+      "mediaSalarial": 8070,
+      "participantes": 312048
+    },
+    {
+      "posicao": 4,
+      "estado": "PHP",
+      "mediaSalarial": 6209,
+      "participantes": 531227
+    },
+    {
+      "posicao": 5,
+      "estado": "PYTHON",
+      "mediaSalarial": 8585,
+      "participantes": 61881
+    },
+    {
+      "posicao": 6,
+      "estado": "TYPESCRIPT",
+      "mediaSalarial": 7209,
+      "participantes": 55464
+    },
+    {
+      "posicao": 7,
+      "estado": "KOTLIN",
+      "mediaSalarial": 9413,
+      "participantes": 14269
+    },
+    {
+      "posicao": 8,
+      "estado": "DART",
+      "mediaSalarial": 6459,
+      "participantes": 89234
+    },
+    {
+      "posicao": 9,
+      "estado": "DELPHI",
+      "mediaSalarial": 6492,
+      "participantes": 76194
+    },
+    {
+      "posicao": 10,
+      "estado": "RUBY",
+      "mediaSalarial": 10143,
+      "participantes": 72185
+    },
+    {
+      "posicao": 11,
+      "estado": "GO",
+      "mediaSalarial": 13063,
+      "participantes": 78158
+    },
+    {
+      "posicao": 12,
+      "estado": "SWIFT",
+      "mediaSalarial": 10571,
+      "participantes": 92133
+    },
+    {
+      "posicao": 13,
+      "estado": "SQL",
+      "mediaSalarial": 6456,
+      "participantes": 5391
+    },
+    {
+      "posicao": 15,
+      "estado": "BUBBLE",
+      "mediaSalarial": 7418,
+      "participantes": 1485
+    },
+    {
+      "posicao": 17,
+      "estado": "APEX",
+      "mediaSalarial": 9336,
+      "participantes": 5661
+    },
+    {
+      "posicao": 18,
+      "estado": "C",
+      "mediaSalarial": 7194,
+      "participantes": 3749
+    },
+    {
+      "posicao": 20,
+      "estado": "ELIXIR",
+      "mediaSalarial": 17910,
+      "participantes": 7139
+    },
+    {
+      "posicao": 21,
+      "estado": "ADVPL",
+      "mediaSalarial": 8847,
+      "participantes": 7236
+    },
+    {
+      "posicao": 22,
+      "estado": "CLOJURE",
+      "mediaSalarial": 14500,
+      "participantes": 5022
+    },
+    {
+      "posicao": 23,
+      "estado": "ABAP",
+      "mediaSalarial": 9975,
+      "participantes": 5020
+    },
+    {
+      "posicao": 25,
+      "estado": "HTML",
+      "mediaSalarial": 4469,
+      "participantes": 1916
+    },
+    {
+      "posicao": 26,
+      "estado": "NO CODE",
+      "mediaSalarial": 7800,
+      "participantes": 4315
+    },
+    {
+      "posicao": 27,
+      "estado": "POWER FX",
+      "mediaSalarial": 5821,
+      "participantes": 9314
+    },
+    {
+      "posicao": 29,
+      "estado": "COBOL",
+      "mediaSalarial": 14611,
+      "participantes": 569
+    },
+    {
+      "posicao": 30,
+      "estado": "SHELL",
+      "mediaSalarial": 9056,
+      "participantes": 69
+    },
+    {
+      "posicao": 31,
+      "estado": "PASCAL",
+      "mediaSalarial": 4389,
+      "participantes": 399
+    },
+    {
+      "posicao": 32,
+      "estado": "BASH",
+      "mediaSalarial": 11688,
+      "participantes": 8
+    },
+    {
+      "posicao": 33,
+      "estado": "PROGRESS",
+      "mediaSalarial": 6063,
+      "participantes": 8
+    },
+    {
+      "posicao": 34,
+      "estado": "SCALA",
+      "mediaSalarial": 12063,
+      "participantes": 8
+    },
+    {
+      "posicao": 36,
+      "estado": "RUST",
+      "mediaSalarial": 25857,
+      "participantes": 507
+    },
+    {
+      "posicao": 37,
+      "estado": "CSS",
+      "mediaSalarial": 3929,
+      "participantes": 77
+    },
+    {
+      "posicao": 38,
+      "estado": "GENEXUS",
+      "mediaSalarial": 10667,
+      "participantes": 176
+    },
+    {
+      "posicao": 39,
+      "estado": "LUA",
+      "mediaSalarial": 2667,
+      "participantes": 176
+    },
+    {
+      "posicao": 40,
+      "estado": "GROOVY",
+      "mediaSalarial": 8583,
+      "participantes": 836
+    },
+    {
+      "posicao": 41,
+      "estado": "VBA",
+      "mediaSalarial": 3000,
+      "participantes": 506
+    },
+    {
+      "posicao": 42,
+      "estado": "SHELL SCRIPT",
+      "mediaSalarial": 11000,
+      "participantes": 505
+    },
+    {
+      "posicao": 43,
+      "estado": "POWER PLATFORM",
+      "mediaSalarial": 9375,
+      "participantes": 504
+    },
+    {
+      "posicao": 44,
+      "estado": "MAKER",
+      "mediaSalarial": 8875,
+      "participantes": 504
+    },
+    {
+      "posicao": 45,
+      "estado": "OUTSYSTEMS",
+      "mediaSalarial": 6250,
+      "participantes": 504
+    },
+    {
+      "posicao": 46,
+      "estado": "UNIFACE",
+      "mediaSalarial": 5833,
+      "participantes": 833
+    },
+    {
+      "posicao": 47,
+      "estado": "PERL",
+      "mediaSalarial": 5167,
+      "participantes": 173
+    },
+    {
+      "posicao": 48,
+      "estado": "YAML",
+      "mediaSalarial": 9500,
+      "participantes": 503
+    },
+    {
+      "posicao": 49,
+      "estado": "OBJECT PASCAL",
+      "mediaSalarial": 3833,
+      "participantes": 833
+    },
+    {
+      "posicao": 50,
+      "estado": "SQL SERVER",
+      "mediaSalarial": 7500,
+      "participantes": 503
+    },
+    {
+      "posicao": 51,
+      "estado": "POWERSHELL",
+      "mediaSalarial": 6500,
+      "participantes": 503
+    },
+    {
+      "posicao": 52,
+      "estado": "REACT",
+      "mediaSalarial": 5500,
+      "participantes": 503
+    },
+    {
+      "posicao": 53,
+      "estado": "TERRAFORM",
+      "mediaSalarial": 13833,
+      "participantes": 833
+    },
+    {
+      "posicao": 54,
+      "estado": "CENTURA",
+      "mediaSalarial": 4833,
+      "participantes": 833
+    },
+    {
+      "posicao": 55,
+      "estado": "R",
+      "mediaSalarial": 6167,
+      "participantes": 173
+    },
+    {
+      "posicao": 56,
+      "estado": "BI",
+      "mediaSalarial": 2000,
+      "participantes": 252
+    },
+    {
+      "posicao": 57,
+      "estado": "POWERAPPS",
+      "mediaSalarial": 4000,
+      "participantes": 502
+    },
+    {
+      "posicao": 58,
+      "estado": "SPARK",
+      "mediaSalarial": 31250,
+      "participantes": 502
+    },
+    {
+      "posicao": 59,
+      "estado": "SELENIUM",
+      "mediaSalarial": 3000,
+      "participantes": 502
+    },
+    {
+      "posicao": 60,
+      "estado": "HCL",
+      "mediaSalarial": 19250,
+      "participantes": 502
+    },
+    {
+      "posicao": 1,
+      "estado": "REACT",
+      "mediaSalarial": 7985,
+      "participantes": 112958
+    },
+    {
+      "posicao": 3,
+      "estado": "ANGULAR",
+      "mediaSalarial": 7960,
+      "participantes": 511826
+    },
+    {
+      "posicao": 5,
+      "estado": "SPRING",
+      "mediaSalarial": 8718,
+      "participantes": 39810
+    },
+    {
+      "posicao": 6,
+      "estado": "LARAVEL",
+      "mediaSalarial": 6704,
+      "participantes": 50772
+    },
+    {
+      "posicao": 8,
+      "estado": "FLUTTER",
+      "mediaSalarial": 8388,
+      "participantes": 41629
+    },
+    {
+      "posicao": 9,
+      "estado": "SPRING BOOT",
+      "mediaSalarial": 7851,
+      "participantes": 87545
+    },
+    {
+      "posicao": 10,
+      "estado": "REACT NATIVE",
+      "mediaSalarial": 8273,
+      "participantes": 70474
+    },
+    {
+      "posicao": 11,
+      "estado": "DJANGO",
+      "mediaSalarial": 8895,
+      "participantes": 86325
+    },
+    {
+      "posicao": 15,
+      "estado": "RAILS",
+      "mediaSalarial": 10623,
+      "participantes": 7208
+    },
+    {
+      "posicao": 16,
+      "estado": "DOCKER",
+      "mediaSalarial": 8552,
+      "participantes": 48202
+    },
+    {
+      "posicao": 17,
+      "estado": "AWS",
+      "mediaSalarial": 11369,
+      "participantes": 18198
+    },
+    {
+      "posicao": 18,
+      "estado": "JQUERY",
+      "mediaSalarial": 5433,
+      "participantes": 82180
+    },
+    {
+      "posicao": 19,
+      "estado": "FLASK",
+      "mediaSalarial": 8221,
+      "participantes": 34163
+    },
+    {
+      "posicao": 20,
+      "estado": "BOOTSTRAP",
+      "mediaSalarial": 4484,
+      "participantes": 74159
+    },
+    {
+      "posicao": 21,
+      "estado": "EXPRESS",
+      "mediaSalarial": 9077,
+      "participantes": 9124
+    },
+    {
+      "posicao": 22,
+      "estado": "MYSQL",
+      "mediaSalarial": 6392,
+      "participantes": 15120
+    },
+    {
+      "posicao": 23,
+      "estado": "IONIC",
+      "mediaSalarial": 8519,
+      "participantes": 91103
+    },
+    {
+      "posicao": 24,
+      "estado": "ANGULARJS",
+      "mediaSalarial": 6777,
+      "participantes": 1094
+    },
+    {
+      "posicao": 25,
+      "estado": "MONGODB",
+      "mediaSalarial": 8726,
+      "participantes": 3093
+    },
+    {
+      "posicao": 26,
+      "estado": "KUBERNETES",
+      "mediaSalarial": 13700,
+      "participantes": 5090
+    },
+    {
+      "posicao": 27,
+      "estado": "ANDROID",
+      "mediaSalarial": 11435,
+      "participantes": 284
+    },
+    {
+      "posicao": 28,
+      "estado": "KAFKA",
+      "mediaSalarial": 9475,
+      "participantes": 8181
+    },
+    {
+      "posicao": 29,
+      "estado": "CODEIGNITER",
+      "mediaSalarial": 4796,
+      "participantes": 7881
+    },
+    {
+      "posicao": 30,
+      "estado": "FASTAPI",
+      "mediaSalarial": 8753,
+      "participantes": 8375
+    },
+    {
+      "posicao": 32,
+      "estado": "GIT",
+      "mediaSalarial": 7555,
+      "participantes": 2973
+    },
+    {
+      "posicao": 33,
+      "estado": "PANDAS",
+      "mediaSalarial": 7667,
+      "participantes": 1669
+    },
+    {
+      "posicao": 34,
+      "estado": "QUARKUS",
+      "mediaSalarial": 10290,
+      "participantes": 3569
+    },
+    {
+      "posicao": 35,
+      "estado": "SQL SERVER",
+      "mediaSalarial": 7750,
+      "participantes": 4966
+    },
+    {
+      "posicao": 36,
+      "estado": "SYMPHONY",
+      "mediaSalarial": 9108,
+      "participantes": 8360
+    },
+    {
+      "posicao": 37,
+      "estado": "WORDPRESS",
+      "mediaSalarial": 7792,
+      "participantes": 1660
+    },
+    {
+      "posicao": 38,
+      "estado": "GRAPHQL",
+      "mediaSalarial": 11237,
+      "participantes": 7959
+    },
+    {
+      "posicao": 39,
+      "estado": "HIBERNATE",
+      "mediaSalarial": 7305,
+      "participantes": 5859
+    },
+    {
+      "posicao": 40,
+      "estado": "POSTGRESQL",
+      "mediaSalarial": 7118,
+      "participantes": 6655
+    },
+    {
+      "posicao": 42,
+      "estado": "KOTLIN",
+      "mediaSalarial": 12750,
+      "participantes": 4954
+    },
+    {
+      "posicao": 43,
+      "estado": "JSF",
+      "mediaSalarial": 6292,
+      "participantes": 9353
+    },
+    {
+      "posicao": 44,
+      "estado": "BUBBLE",
+      "mediaSalarial": 8214,
+      "participantes": 7949
+    },
+    {
+      "posicao": 45,
+      "estado": "XAMARIN",
+      "mediaSalarial": 10818,
+      "participantes": 6744
+    },
+    {
+      "posicao": 48,
+      "estado": "AZURE",
+      "mediaSalarial": 12550,
+      "participantes": 5040
+    },
+    {
+      "posicao": 49,
+      "estado": "SPRING FRAMEWORK",
+      "mediaSalarial": 8512,
+      "participantes": 9940
+    },
+    {
+      "posicao": 50,
+      "estado": "POSTGRES",
+      "mediaSalarial": 7115,
+      "participantes": 8839
+    },
+    {
+      "posicao": 51,
+      "estado": "SPARK",
+      "mediaSalarial": 12053,
+      "participantes": 1338
+    },
+    {
+      "posicao": 52,
+      "estado": "LUMEN",
+      "mediaSalarial": 7833,
+      "participantes": 8336
+    },
+    {
+      "posicao": 53,
+      "estado": "RABBITMQ",
+      "mediaSalarial": 9814,
+      "participantes": 7935
+    },
+    {
+      "posicao": 54,
+      "estado": "NUXT",
+      "mediaSalarial": 5914,
+      "participantes": 7935
+    },
+    {
+      "posicao": 55,
+      "estado": "PHOENIX",
+      "mediaSalarial": 17750,
+      "participantes": 4634
+    },
+    {
+      "posicao": 56,
+      "estado": "TERRAFORM",
+      "mediaSalarial": 17912,
+      "participantes": 2634
+    },
+    {
+      "posicao": 57,
+      "estado": "ORACLE",
+      "mediaSalarial": 8279,
+      "participantes": 9134
+    },
+    {
+      "posicao": 58,
+      "estado": "REDIS",
+      "mediaSalarial": 10132,
+      "participantes": 8534
+    },
+    {
+      "posicao": 59,
+      "estado": "REACT JS",
+      "mediaSalarial": 7324,
+      "participantes": 134
+    },
+    {
+      "posicao": 60,
+      "estado": "SERVERLESS",
+      "mediaSalarial": 9985,
+      "participantes": 3533
+    }
+  ],
+  "paisesExterior": [
+    {
+      "posicao": 1,
+      "pais": "PORTUGAL",
+      "mediaSalarial": 12153,
+      "participantes": 8375
+    },
+    {
+      "posicao": 2,
+      "pais": "CANADÁ",
+      "mediaSalarial": 29806,
+      "participantes": 18
+    },
+    {
+      "posicao": 3,
+      "pais": "ALEMANHA",
+      "mediaSalarial": 29857,
+      "participantes": 6414
+    },
+    {
+      "posicao": 4,
+      "pais": "IRLANDA",
+      "mediaSalarial": 26389,
+      "participantes": 339
+    },
+    {
+      "posicao": 5,
+      "pais": "JAPÃO",
+      "mediaSalarial": 18786,
+      "participantes": 217
+    },
+    {
+      "posicao": 6,
+      "pais": "ANGOLA",
+      "mediaSalarial": 18786,
+      "participantes": 147
+    },
+    {
+      "posicao": 7,
+      "pais": "EUA",
+      "mediaSalarial": 33000,
+      "participantes": 336
+    },
+    {
+      "posicao": 8,
+      "pais": "HOLANDA",
+      "mediaSalarial": 31667,
+      "participantes": 176
+    },
+    {
+      "posicao": 9,
+      "pais": "INGLATERRA",
+      "mediaSalarial": 26700,
+      "participantes": 505
+    },
+    {
+      "posicao": 10,
+      "pais": "PAÍSES BAIXOS",
+      "mediaSalarial": 34000,
+      "participantes": 405
+    },
+    {
+      "posicao": 11,
+      "pais": "ITÁLIA",
+      "mediaSalarial": 17250,
+      "participantes": 504
+    },
+    {
+      "posicao": 12,
+      "pais": "ESPANHA",
+      "mediaSalarial": 17333,
+      "participantes": 833
+    },
+    {
+      "posicao": 13,
+      "pais": "REINO UNIDO",
+      "mediaSalarial": 27833,
+      "participantes": 833
+    },
+    {
+      "posicao": 14,
+      "pais": "LUXEMBURGO",
+      "mediaSalarial": 38333,
+      "participantes": 833
+    },
+    {
+      "posicao": 15,
+      "pais": "PARAGUAI",
+      "mediaSalarial": 27000,
+      "participantes": 333
+    },
+    {
+      "posicao": 16,
+      "pais": "ARGENTINA",
+      "mediaSalarial": 12000,
+      "participantes": 502
+    },
+    {
+      "posicao": 17,
+      "pais": "FRANÇA",
+      "mediaSalarial": 17750,
+      "participantes": 502
+    },
+    {
+      "posicao": 18,
+      "pais": "BÉLGICA",
+      "mediaSalarial": 30000,
+      "participantes": 502
+    },
+    {
+      "posicao": 19,
+      "pais": "MOÇAMBIQUE",
+      "mediaSalarial": 2500,
+      "participantes": 502
+    },
+    {
+      "posicao": 20,
+      "pais": "DINAMARCA",
+      "mediaSalarial": 35000,
+      "participantes": 501
+    },
+    {
+      "posicao": 21,
+      "pais": "ESCÓCIA",
+      "mediaSalarial": 17500,
+      "participantes": 501
+    },
+    {
+      "posicao": 22,
+      "pais": "SUÍÇA",
+      "mediaSalarial": 25000,
+      "participantes": 501
+    },
+    {
+      "posicao": 23,
+      "pais": "LIECHTENSTEIN",
+      "mediaSalarial": 25000,
+      "participantes": 501
+    },
+    {
+      "posicao": 24,
+      "pais": "ÁUSTRIA",
+      "mediaSalarial": 25000,
+      "participantes": 501
+    },
+    {
+      "posicao": 25,
+      "pais": "URUGUAI",
+      "mediaSalarial": 4500,
+      "participantes": 501
+    },
+    {
+      "posicao": 26,
+      "pais": "AUSTRALIA",
+      "mediaSalarial": 35000,
+      "participantes": 501
+    },
+    {
+      "posicao": 27,
+      "pais": "EL SALVADOR",
+      "mediaSalarial": 13500,
+      "participantes": 501
+    },
+    {
+      "posicao": 28,
+      "pais": "COLÔMBIA",
+      "mediaSalarial": 60000,
+      "participantes": 1
+    },
+    {
+      "posicao": 29,
+      "pais": "NOVA ZELÂNDIA",
+      "mediaSalarial": 45000,
+      "participantes": 501
+    },
+    {
+      "posicao": 30,
+      "pais": "MALTA",
+      "mediaSalarial": 17500,
+      "participantes": 501
+    },
+    {
+      "posicao": 31,
+      "pais": "NÔMADE",
+      "mediaSalarial": 45000,
+      "participantes": 501
+    },
+    {
+      "posicao": 32,
+      "pais": "MONTENEGRO",
+      "mediaSalarial": 35000,
+      "participantes": 501
+    },
+    {
+      "posicao": 15,
+      "pais": "BUBBLE",
+      "mediaSalarial": 7418,
+      "participantes": 1485
+    },
+    {
+      "posicao": 26,
+      "pais": "NO CODE",
+      "mediaSalarial": 7800,
+      "participantes": 4315
+    },
+    {
+      "posicao": 27,
+      "pais": "POWER FX",
+      "mediaSalarial": 5821,
+      "participantes": 9314
+    },
+    {
+      "posicao": 30,
+      "pais": "SHELL",
+      "mediaSalarial": 9056,
+      "participantes": 69
+    },
+    {
+      "posicao": 39,
+      "pais": "LUA",
+      "mediaSalarial": 2667,
+      "participantes": 176
+    },
+    {
+      "posicao": 43,
+      "pais": "POWER PLATFORM",
+      "mediaSalarial": 9375,
+      "participantes": 504
+    },
+    {
+      "posicao": 46,
+      "pais": "UNIFACE",
+      "mediaSalarial": 5833,
+      "participantes": 833
+    },
+    {
+      "posicao": 47,
+      "pais": "PERL",
+      "mediaSalarial": 5167,
+      "participantes": 173
+    },
+    {
+      "posicao": 48,
+      "pais": "YAML",
+      "mediaSalarial": 9500,
+      "participantes": 503
+    },
+    {
+      "posicao": 51,
+      "pais": "POWERSHELL",
+      "mediaSalarial": 6500,
+      "participantes": 503
+    },
+    {
+      "posicao": 53,
+      "pais": "TERRAFORM",
+      "mediaSalarial": 13833,
+      "participantes": 833
+    },
+    {
+      "posicao": 54,
+      "pais": "CENTURA",
+      "mediaSalarial": 4833,
+      "participantes": 833
+    },
+    {
+      "posicao": 56,
+      "pais": "BI",
+      "mediaSalarial": 2000,
+      "participantes": 252
+    },
+    {
+      "posicao": 57,
+      "pais": "POWERAPPS",
+      "mediaSalarial": 4000,
+      "participantes": 502
+    },
+    {
+      "posicao": 58,
+      "pais": "SPARK",
+      "mediaSalarial": 31250,
+      "participantes": 502
+    },
+    {
+      "posicao": 59,
+      "pais": "SELENIUM",
+      "mediaSalarial": 3000,
+      "participantes": 502
+    },
+    {
+      "posicao": 60,
+      "pais": "HCL",
+      "mediaSalarial": 19250,
+      "participantes": 502
+    },
+    {
+      "posicao": 1,
+      "pais": "REACT",
+      "mediaSalarial": 7985,
+      "participantes": 112958
+    },
+    {
+      "posicao": 3,
+      "pais": "ANGULAR",
+      "mediaSalarial": 7960,
+      "participantes": 511826
+    },
+    {
+      "posicao": 5,
+      "pais": "SPRING",
+      "mediaSalarial": 8718,
+      "participantes": 39810
+    },
+    {
+      "posicao": 6,
+      "pais": "LARAVEL",
+      "mediaSalarial": 6704,
+      "participantes": 50772
+    },
+    {
+      "posicao": 8,
+      "pais": "FLUTTER",
+      "mediaSalarial": 8388,
+      "participantes": 41629
+    },
+    {
+      "posicao": 9,
+      "pais": "SPRING BOOT",
+      "mediaSalarial": 7851,
+      "participantes": 87545
+    },
+    {
+      "posicao": 10,
+      "pais": "REACT NATIVE",
+      "mediaSalarial": 8273,
+      "participantes": 70474
+    },
+    {
+      "posicao": 11,
+      "pais": "DJANGO",
+      "mediaSalarial": 8895,
+      "participantes": 86325
+    },
+    {
+      "posicao": 15,
+      "pais": "RAILS",
+      "mediaSalarial": 10623,
+      "participantes": 7208
+    },
+    {
+      "posicao": 16,
+      "pais": "DOCKER",
+      "mediaSalarial": 8552,
+      "participantes": 48202
+    },
+    {
+      "posicao": 17,
+      "pais": "AWS",
+      "mediaSalarial": 11369,
+      "participantes": 18198
+    },
+    {
+      "posicao": 18,
+      "pais": "JQUERY",
+      "mediaSalarial": 5433,
+      "participantes": 82180
+    },
+    {
+      "posicao": 19,
+      "pais": "FLASK",
+      "mediaSalarial": 8221,
+      "participantes": 34163
+    },
+    {
+      "posicao": 20,
+      "pais": "BOOTSTRAP",
+      "mediaSalarial": 4484,
+      "participantes": 74159
+    },
+    {
+      "posicao": 21,
+      "pais": "EXPRESS",
+      "mediaSalarial": 9077,
+      "participantes": 9124
+    },
+    {
+      "posicao": 22,
+      "pais": "MYSQL",
+      "mediaSalarial": 6392,
+      "participantes": 15120
+    },
+    {
+      "posicao": 23,
+      "pais": "IONIC",
+      "mediaSalarial": 8519,
+      "participantes": 91103
+    },
+    {
+      "posicao": 24,
+      "pais": "ANGULARJS",
+      "mediaSalarial": 6777,
+      "participantes": 1094
+    },
+    {
+      "posicao": 25,
+      "pais": "MONGODB",
+      "mediaSalarial": 8726,
+      "participantes": 3093
+    },
+    {
+      "posicao": 26,
+      "pais": "KUBERNETES",
+      "mediaSalarial": 13700,
+      "participantes": 5090
+    },
+    {
+      "posicao": 27,
+      "pais": "ANDROID",
+      "mediaSalarial": 11435,
+      "participantes": 284
+    },
+    {
+      "posicao": 28,
+      "pais": "KAFKA",
+      "mediaSalarial": 9475,
+      "participantes": 8181
+    },
+    {
+      "posicao": 29,
+      "pais": "CODEIGNITER",
+      "mediaSalarial": 4796,
+      "participantes": 7881
+    },
+    {
+      "posicao": 30,
+      "pais": "FASTAPI",
+      "mediaSalarial": 8753,
+      "participantes": 8375
+    },
+    {
+      "posicao": 32,
+      "pais": "GIT",
+      "mediaSalarial": 7555,
+      "participantes": 2973
+    },
+    {
+      "posicao": 33,
+      "pais": "PANDAS",
+      "mediaSalarial": 7667,
+      "participantes": 1669
+    },
+    {
+      "posicao": 34,
+      "pais": "QUARKUS",
+      "mediaSalarial": 10290,
+      "participantes": 3569
+    },
+    {
+      "posicao": 35,
+      "pais": "SQL SERVER",
+      "mediaSalarial": 7750,
+      "participantes": 4966
+    },
+    {
+      "posicao": 36,
+      "pais": "SYMPHONY",
+      "mediaSalarial": 9108,
+      "participantes": 8360
+    },
+    {
+      "posicao": 37,
+      "pais": "WORDPRESS",
+      "mediaSalarial": 7792,
+      "participantes": 1660
+    },
+    {
+      "posicao": 38,
+      "pais": "GRAPHQL",
+      "mediaSalarial": 11237,
+      "participantes": 7959
+    },
+    {
+      "posicao": 39,
+      "pais": "HIBERNATE",
+      "mediaSalarial": 7305,
+      "participantes": 5859
+    },
+    {
+      "posicao": 40,
+      "pais": "POSTGRESQL",
+      "mediaSalarial": 7118,
+      "participantes": 6655
+    },
+    {
+      "posicao": 42,
+      "pais": "KOTLIN",
+      "mediaSalarial": 12750,
+      "participantes": 4954
+    },
+    {
+      "posicao": 43,
+      "pais": "JSF",
+      "mediaSalarial": 6292,
+      "participantes": 9353
+    },
+    {
+      "posicao": 44,
+      "pais": "BUBBLE",
+      "mediaSalarial": 8214,
+      "participantes": 7949
+    },
+    {
+      "posicao": 45,
+      "pais": "XAMARIN",
+      "mediaSalarial": 10818,
+      "participantes": 6744
+    },
+    {
+      "posicao": 48,
+      "pais": "AZURE",
+      "mediaSalarial": 12550,
+      "participantes": 5040
+    },
+    {
+      "posicao": 49,
+      "pais": "SPRING FRAMEWORK",
+      "mediaSalarial": 8512,
+      "participantes": 9940
+    },
+    {
+      "posicao": 50,
+      "pais": "POSTGRES",
+      "mediaSalarial": 7115,
+      "participantes": 8839
+    },
+    {
+      "posicao": 51,
+      "pais": "SPARK",
+      "mediaSalarial": 12053,
+      "participantes": 1338
+    },
+    {
+      "posicao": 52,
+      "pais": "LUMEN",
+      "mediaSalarial": 7833,
+      "participantes": 8336
+    },
+    {
+      "posicao": 53,
+      "pais": "RABBITMQ",
+      "mediaSalarial": 9814,
+      "participantes": 7935
+    },
+    {
+      "posicao": 54,
+      "pais": "NUXT",
+      "mediaSalarial": 5914,
+      "participantes": 7935
+    },
+    {
+      "posicao": 55,
+      "pais": "PHOENIX",
+      "mediaSalarial": 17750,
+      "participantes": 4634
+    },
+    {
+      "posicao": 56,
+      "pais": "TERRAFORM",
+      "mediaSalarial": 17912,
+      "participantes": 2634
+    },
+    {
+      "posicao": 57,
+      "pais": "ORACLE",
+      "mediaSalarial": 8279,
+      "participantes": 9134
+    },
+    {
+      "posicao": 58,
+      "pais": "REDIS",
+      "mediaSalarial": 10132,
+      "participantes": 8534
+    },
+    {
+      "posicao": 59,
+      "pais": "REACT JS",
+      "mediaSalarial": 7324,
+      "participantes": 134
+    },
+    {
+      "posicao": 60,
+      "pais": "SERVERLESS",
+      "mediaSalarial": 9985,
+      "participantes": 3533
+    }
+  ]
+}
