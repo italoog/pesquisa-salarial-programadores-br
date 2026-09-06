@@ -35,6 +35,11 @@ entre requisições** para não sobrecarregar o servidor, e grava os resultados 
 | `dados/pesquisa_todos_anos.json` | Consolidado das seis edições |
 | `dados/dados_verificados_web.json` | Conferência manual dos valores contra as páginas originais (jun/2026) |
 
+Além dos campos acima, cada arquivo traz `ia` (adoção, ganho de produtividade,
+confiança na qualidade do código, receio de substituição e ranking de ferramentas)
+e `saudeMental` (ansiedade, estresse, burnout, estafa mental, depressão), presentes
+nas edições que investigaram esses temas.
+
 Cada arquivo anual tem o formato:
 
 ```jsonc
@@ -65,15 +70,29 @@ percentuais são números na escala de 0 a 100 (`43.8`, não `0.438`).
 
 ## Como funciona
 
-O portal renderiza os resultados como texto corrido, sem estrutura HTML semântica
-que permita seletores estáveis. Por isso o parsing é feito por expressões regulares
-sobre o texto extraído da página (`$('body').text()` via Cheerio), e não por
-seletores CSS/DOM. As funções de ranking segmentam o texto pelo cabeçalho da seção
-antes de aplicar as regex, para evitar contaminação entre seções.
+O portal é uma aplicação Next.js e embute todos os resultados agregados em
+`<script id="__NEXT_DATA__">`, sob `props.pageProps.survey`. O coletor lê esse JSON
+com Cheerio e trabalha sobre **contagens absolutas**, e não por expressões regulares
+sobre o texto renderizado.
 
-Consequência prática: **mudanças na redação do portal quebram a extração**. Os
-arquivos em `dados/` refletem as páginas tal como estavam em fevereiro e junho de
-2026, e servem como registro estável mesmo que o site mude.
+Isso importa: a primeira versão deste coletor usava regex sobre o texto e produzia
+erros silenciosos — distribuições somando 106% ou 114%, rótulos capturados da seção
+errada, campos vazios. Lendo as contagens, os percentuais fecham 100% por construção
+e cada rótulo vem com o nome exato que a pesquisa usa.
+
+As médias salariais são a exceção: o site não as publica no JSON, calcula-as no
+navegador a partir da distribuição por faixa. `mediasPorColuna()` reproduz a mesma
+fórmula — ponto médio da faixa, faixa inferior valendo 500 e faixa aberta do topo
+conforme `TOPO_FAIXA_ABERTA`. O resultado confere ao centavo com o publicado de 2022
+a 2026. Nas edições até 2023, em que a média aparece no HTML servido, o valor
+publicado tem precedência sobre o cálculo.
+
+Os percentuais das ferramentas de IA seguem o denominador da própria pesquisa: a soma
+das dez mais citadas na edição, não o total de respondentes.
+
+A cada edição, `conferir()` avisa quando alguma distribuição deixa de somar 100%, e
+`extrairSurvey()` interrompe a coleta se a página mudar de forma — melhor falhar alto
+do que gravar um JSON plausível e errado.
 
 ## Dependências
 
